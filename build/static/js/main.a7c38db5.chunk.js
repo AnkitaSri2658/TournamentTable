@@ -1,0 +1,2 @@
+(this["webpackJsonpcoding-test-fe"]=this["webpackJsonpcoding-test-fe"]||[]).push([[0],[,,,function(e,n,t){e.exports=t(4)},function(e,n,t){"use strict";t.r(n),t.d(n,"App",(function(){return o}));var r=t(0),c=t.n(r),a=t(2),o=function(){return c.a.createElement("div",null,c.a.createElement("h1",null,"On Going Games"))};t.n(a).a.render(c.a.createElement(c.a.StrictMode,null,c.a.createElement(o,null)),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.a7c38db5.chunk.js.map

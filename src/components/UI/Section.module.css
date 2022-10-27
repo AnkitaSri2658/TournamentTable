@@ -1,0 +1,8 @@
+.section {
+  margin: auto;
+  width: 80%;
+  max-width: 780px;
+  border-radius: 5px;
+  background-color: #2b3135;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
