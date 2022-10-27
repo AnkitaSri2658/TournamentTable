@@ -1,11 +1,10 @@
-
-# Agenda
-
 Performing the following tasks in order
 
 - Retriving the data from the static series endpoint, and output this into a table or list
 - Adding ability to be able to filter this table/list by title along with a text filter for tournament name
 - Using mpdule.css to style the table/list following the design below
+- Output will look like the following ![image](https://user-images.githubusercontent.com/99965138/198288330-b7283607-89d8-4193-982d-ced10636197f.png)
+
 
 ## Table Designs
 - https://www.figma.com/file/CoIVwq0YUHfHnTvnUTpiAS/Interview-Design
