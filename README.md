@@ -13,6 +13,10 @@ Please do the following tasks in order
 ## Table Designs
 - https://www.figma.com/file/CoIVwq0YUHfHnTvnUTpiAS/Interview-Design
 
+## Dependency
+- React
+- react-table-filter -> https://www.npmjs.com/package/react-table-filter
+
 ## Getting started
 
 In the project directory, you can run:
