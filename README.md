@@ -1,14 +1,11 @@
 
+# Agenda
 
-# Grid Frontend Coding Test
+Performing the following tasks in order
 
-# Requirements
-
-Please do the following tasks in order
-
-- Retrieve the data from the static series endpoint, and output this into a table or list
-- Add in the ability to be able to filter this table/list by title along with a text filter for tournament name
-- Use whatever your feel comfortable to style the table/list following the design below
+- Retriving the data from the static series endpoint, and output this into a table or list
+- Adding ability to be able to filter this table/list by title along with a text filter for tournament name
+- Using mpdule.css to style the table/list following the design below
 
 ## Table Designs
 - https://www.figma.com/file/CoIVwq0YUHfHnTvnUTpiAS/Interview-Design
